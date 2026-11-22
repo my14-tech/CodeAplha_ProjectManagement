@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+html { min-width: 320px; min-height: 100%; background: #f3f5f2; }
+body { min-width: 320px; min-height: 100vh; margin: 0; }
+button { -webkit-tap-highlight-color: transparent; }
+::selection { color: #1d4e40; background: #d7eadc; }
